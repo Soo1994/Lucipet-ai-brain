@@ -4,7 +4,7 @@
 Posts, captions, content ideas.
 
 ## Tools
-Tools: none connected yet
+Tools: Instagram @lucipet.shop (via Composio)
 
 ## Files in this folder
 | File | Open it when |

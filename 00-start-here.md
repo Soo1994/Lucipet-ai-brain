@@ -28,6 +28,7 @@ Files (photos, invoices, PDFs) will live in Google Drive. Not set up yet.
 | Tool | Main record for |
 |---|---|
 | Gmail (owner's connected account) | LuciPet email: customer, supplier and partner mail |
+| Instagram @lucipet.shop (via Composio) | Instagram posts, captions and post performance |
 
 Tools are added here as each workflow is set up
 
