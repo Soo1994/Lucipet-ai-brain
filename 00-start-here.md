@@ -18,6 +18,8 @@
 | Ads, email campaigns, promotions | marketing/marketing-index.md |
 | Orders, takings, best sellers, discounts | sales/sales-index.md |
 | Stock levels, reorders, suppliers | inventory/inventory-index.md |
+| Customer inquiries and replies | customer-service/customer-service-index.md |
+| New product line, shipping to Asia | new-products-and-expansion/new-products-and-expansion-index.md |
 
 ## Files
 Files (photos, invoices, PDFs) will live in Google Drive. Not set up yet.

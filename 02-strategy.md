@@ -2,7 +2,7 @@
 
 ## Next 3 months
 Goal: sell out the full stock of 3,000 units.
-How we measure it: units sold out of 3,000. Net profit target as given: KRW 15K.
+How we measure it: units sold out of 3,000. Net profit target: KRW 15,000,000 (15 million won).
 Sales and stock figures come from a connected tool, not this file. [Not known yet: which tool.]
 
 ## Next 12 months
