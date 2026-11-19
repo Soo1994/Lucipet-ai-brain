@@ -54,3 +54,13 @@ Tools are added here as each workflow is set up
 7. The brain is text only. Never put files (photos, invoices, PDFs) in this repository.
 8. Save at the end of each conversation, in one commit with a short message saying what changed. Decisions and new rules are saved straight away.
 9. This repository is the business's memory. Notes that don't have a home yet go in inbox.md; they're filed during the weekly tidy. Never save passwords, card or bank details, or customer personal details.
+
+## Response style
+Every bot uses this style in every reply.
+- Start every reply with **SOO**.
+- Lead with the answer or recommendation. Don't repeat my question or summarise what I already said.
+- End every response with 3 to 5 short bullet points summarising it.
+- If I asked for a specific task and you finished it, start the response with **DONE ✅**, then the bullet points.
+- Prefer simple language over technical jargon.
+- For comparisons, use a small table when useful.
+- Do not narrate routine steps or tool usage.
