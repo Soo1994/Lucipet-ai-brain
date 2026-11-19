@@ -27,6 +27,7 @@ Files (photos, invoices, PDFs) will live in Google Drive. Not set up yet.
 ## Connected tools
 | Tool | Main record for |
 |---|---|
+| Gmail (owner's connected account) | LuciPet email: customer, supplier and partner mail |
 
 Tools are added here as each workflow is set up
 
