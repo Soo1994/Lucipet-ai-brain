@@ -1,2 +1,1 @@
-# Lucipet-ai-brain
-Lucipet-ai-brain
+Start at 00-start-here.md
